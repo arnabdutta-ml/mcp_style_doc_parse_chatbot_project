@@ -1,0 +1,2 @@
+[console_scripts]
+mcp-style-doc-parse-chatbot = mcp_style_doc_parse_chatbot.chatbot:main

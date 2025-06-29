@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+bin/__init.py__
+bin/chatbot.py
+bin/run_chatbot.py
+mcp_style_doc_parse_chatbot.egg-info/PKG-INFO
+mcp_style_doc_parse_chatbot.egg-info/SOURCES.txt
+mcp_style_doc_parse_chatbot.egg-info/dependency_links.txt
+mcp_style_doc_parse_chatbot.egg-info/entry_points.txt
+mcp_style_doc_parse_chatbot.egg-info/requires.txt
+mcp_style_doc_parse_chatbot.egg-info/top_level.txt
